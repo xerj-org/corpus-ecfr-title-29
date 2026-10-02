@@ -1,0 +1,39 @@
+Title 29 CFR — Part 4044—ALLOCATION OF ASSETS IN SINGLE-EMPLOYER PLANS
+Trusteed Plans
+## § 4044.54 Interest assumptions.
+
+§ 4044.54 Interest assumptions.
+
+(a) General rule. The plan administrator must use the interest rates prescribed in this section to value benefits under § 4044.52.
+
+(b) Interest rate. The interest rate used to discount an expected benefit payment is the interest rate from the applicable 4044 yield curve determined under paragraph (c) of this section for the maturity point that corresponds to the period of time from the valuation date to the date the benefit is expected to be paid unless that period of time exceeds 30 years. In that case, the interest rate used is the interest rate that corresponds to the maturity point at year 30.0. To address the timing of benefit payments during a year, reasonable approximations may be used to value benefit payments that are expected to be made during a plan year.
+
+(c) 4044 yield curve. A 4044 yield curve consists of interest rates (as percentages) that correspond to mid-year and whole-year maturity points for 30.0 years. The applicable 4044 yield curve is the applicable blended market yield curve determined under paragraphs (d)(1) and (2) of this section adjusted in accordance with paragraph (e)(2) of this section by the applicable spreads determined under paragraph (e)(1) of this section.
+
+(d) Blended market yield curves. A blended market yield curve consists of interest rates (as percentages), determined as of the last day of a month, that correspond to mid-year and whole-year maturity points for 30.0 years.
+
+(1) Applicable blended market yield curve. The applicable blended market yield curve is the blended market yield curve as of the valuation date if the valuation date is the last day of a month, otherwise it is the blended market yield curve as of the last day of the month before the month containing the valuation date.
+
+(2) Determination of blended market yield curve. The blended market yield curve is determined by combining the Department of the Treasury's TNC Treasury Yield Curve Spot Rates, End of Month yield curve (TNC Yield Curve) with the Department of the Treasury's HQM Corporate Bond Yield Curve Spot Rates, End of Month yield curve (HQM Bond Yield Curve) in accordance with this paragraph (d)(2). To determine the blended market yield curve as of the last day of a month—
+
+(i) Obtain the rate for each maturity point from 0.5 to 30.0 from the TNC Yield Curve for the end of the month published by the Department of the Treasury.
+
+(ii) Obtain the rate for each maturity point from 0.5 to 30.0 from the HQM Bond Yield Curve for the end of the month published by the Department of the Treasury.
+
+(iii) Determine the interest rate for each maturity point from 0.5 to 30.0 on the blended market yield curve by multiplying the rate determined in paragraph (d)(2)(i) of this section by one-third, multiplying the rate determined in paragraph (d)(2)(ii) of this section at the year by two-thirds, and adding the products.
+
+(e) Spreads —(1) Applicable spreads. The applicable spreads for a blended market yield curve are the spreads set forth in table 1 to this paragraph (e) for the calendar quarter containing the date of the blended market yield curve.
+
+(2) Using spreads to adjust a blended market yield curve. The 4044 yield curve described in paragraph (c) of this section is determined by adjusting the blended market yield curve. This adjustment is made by adding the interest rate for each maturity point on the blended market yield curve to the spread corresponding to that maturity point from the applicable spreads.
+
+(3) Examples. The following examples illustrate how to determine the applicable blended market yield curve and applicable spreads for a given valuation date:
+
+(i) Example 1—August 31, 2024, valuation date. Because the valuation date is the last day of a month, the applicable blended market yield curve determined under paragraph (d)(1) of this section is the blended market yield curve as of that date. Because August 31, 2024, is in the third calendar quarter of 2024, the applicable spreads are the third quarter 2024 spreads, available on www.pbgc.gov.
+
+(ii) Example 2—November 15, 2024, valuation date. Because the valuation date is not the last day of a month, the applicable blended market yield curve determined under paragraph (d)(1) of this section is the blended market yield curve as of the last day of the month before the month containing the valuation date, October 31, 2024. Because October 31, 2024, is in the fourth calendar quarter of 2024, the applicable spreads are the fourth quarter 2024 spreads, available on www.pbgc.gov.
+
+Table 1 to Paragraph( e )—Spreads
+
+Maturity point Fourth quarter 2025 spreads (percent) First quarter 2026 spreads (percent) Second quarter 2026 spreads (percent) Third quarter 2026 spreads (percent) 0.5 0.49 0.56 0.63 0.71 1.0 0.49 0.56 0.63 0.71 1.5 0.49 0.56 0.62 0.70 2.0 0.49 0.56 0.62 0.70 2.5 0.49 0.55 0.62 0.69 3.0 0.49 0.55 0.62 0.69 3.5 0.48 0.54 0.60 0.68 4.0 0.48 0.54 0.60 0.68 4.5 0.47 0.53 0.59 0.66 5.0 0.47 0.53 0.59 0.66 5.5 0.46 0.52 0.57 0.64 6.0 0.46 0.52 0.57 0.64 6.5 0.44 0.50 0.54 0.61 7.0 0.44 0.50 0.54 0.61 7.5 0.43 0.48 0.52 0.59 8.0 0.43 0.48 0.52 0.59 8.5 0.41 0.45 0.49 0.55 9.0 0.41 0.45 0.49 0.55 9.5 0.39 0.43 0.46 0.52 10.0 0.39 0.43 0.46 0.52 10.5 0.37 0.40 0.43 0.48 11.0 0.37 0.40 0.43 0.48 11.5 0.34 0.37 0.39 0.44 12.0 0.34 0.37 0.39 0.44 12.5 0.32 0.34 0.36 0.40 13.0 0.32 0.34 0.36 0.40 13.5 0.30 0.31 0.32 0.36 14.0 0.30 0.31 0.32 0.36 14.5 0.27 0.28 0.28 0.32 15.0 0.27 0.28 0.28 0.32 15.5 0.25 0.25 0.24 0.28 16.0 0.25 0.25 0.24 0.28 16.5 0.23 0.22 0.21 0.23 17.0 0.23 0.22 0.21 0.23 17.5 0.20 0.19 0.17 0.19 18.0 0.20 0.19 0.17 0.19 18.5 0.18 0.16 0.13 0.15 19.0 0.18 0.16 0.13 0.15 19.5 0.16 0.13 0.10 0.11 20.0 0.16 0.13 0.10 0.11 20.5 0.14 0.11 0.07 0.08 21.0 0.14 0.11 0.07 0.08 21.5 0.12 0.08 0.04 0.04 22.0 0.12 0.08 0.04 0.04 22.5 0.10 0.06 0.01 0.01 23.0 0.10 0.06 0.01 0.01 23.5 0.08 0.04 −0.02 −0.02 24.0 0.08 0.04 −0.02 −0.02 24.5 0.07 0.02 −0.04 −0.05 25.0 0.07 0.02 −0.04 −0.05 25.5 0.06 0.00 −0.06 −0.07 26.0 0.06 0.00 −0.06 −0.07 26.5 0.05 −0.01 −0.08 −0.09 27.0 0.05 −0.01 −0.08 −0.09 27.5 0.04 −0.02 −0.09 −0.10 28.0 0.04 −0.02 −0.09 −0.10 28.5 0.03 −0.03 −0.10 −0.11 29.0 0.03 −0.03 −0.10 −0.11 29.5 0.03 −0.03 −0.10 −0.11 30.0 0.03 −0.03 −0.10 −0.11
+
+[89 FR 48305, June 6, 2024, as amended at 89 FR 54347, July 1, 2024; 89 FR 76731, Sept. 19, 2024; 89 FR 104425, Dec. 23, 2024; 90 FR 14578, Apr. 3, 2025; 90 FR 28900, July 2, 2025; 90 FR 45919, Sept. 24, 2025; 91 FR 2300, Jan. 20, 2026; 91 FR 16839, Apr. 3, 2026; 91 FR 47790, July 29, 2026; 91 FR 39464, June 30, 2026]

@@ -1,0 +1,10 @@
+Title 29 CFR — Part 4245—DUTIES OF PLAN SPONSOR OF AN INSOLVENT PLAN
+## § 4245.8 Financial assistance.
+
+§ 4245.8 Financial assistance.
+
+(a) Application for financial assistance. If the plan sponsor of a plan determines that the plan's resource benefit level for an insolvency year is below the level of benefits guaranteed by PBGC or that the plan will be unable to pay guaranteed benefits when due for any month during the year, the plan sponsor must apply to PBGC for financial assistance pursuant to section 4261 of ERISA and in accordance with § 4281.47 of this chapter.
+
+(b) Actuarial valuations. The plan sponsor of an insolvent plan or a terminated plan that is expected to become insolvent under section 4245 of ERISA must have performed and file with PBGC actuarial valuations in accordance with § 4041A.24 of this chapter, except that if a plan is not terminated, the termination year valuation under § 4041A.24(a)(1) of this chapter must be performed for the plan for the plan year in which the plan becomes insolvent.
+
+[84 FR 18725, May 2, 2019, as amended at 90 FR 39329, Aug. 15, 2025]
